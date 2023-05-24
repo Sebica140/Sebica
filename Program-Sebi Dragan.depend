@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684947621 source:c:\users\dragan\desktop\muzica compa\muzica amicus\program-sebi dragan\main.cpp
+	<iostream>
+	<fstream>
+
